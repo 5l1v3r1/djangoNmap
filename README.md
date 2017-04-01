@@ -5,6 +5,8 @@ wsgi.py, views.py, urls.py, settings.py, init.py manage.py,lokalNmap.txt,db.sqli
 
 Kullanım:
 
+İlgili dizine erişim sağladıktan sonra sudo python manage.py runserver komutunu girmemiz gerekmektedir.
+
 127.0.0.1:8000/ Anasayfa
 
 127.0.0.1:8000/taramaGoster Tarama sonucunu gosterir
